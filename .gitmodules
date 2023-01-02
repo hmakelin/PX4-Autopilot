@@ -13,7 +13,7 @@
 [submodule "Tools/simulation/gazebo/sitl_gazebo"]
 	path = Tools/simulation/gazebo/sitl_gazebo
 	url = https://github.com/hmakelin/PX4-SITL_gazebo.git
-	branch = main
+	branch = hmakelin-v1.14.0-beta1
 [submodule "src/drivers/gps/devices"]
 	path = src/drivers/gps/devices
 	url = https://github.com/PX4/PX4-GPSDrivers.git
